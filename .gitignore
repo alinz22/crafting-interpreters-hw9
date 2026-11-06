@@ -1,0 +1,11 @@
+*.o
+clox
+*.dSYM
+test_table
+bench_table
+bench_naive
+bench_load50
+bench_load90
+*.docx
+*.txt
+make_doc.py
